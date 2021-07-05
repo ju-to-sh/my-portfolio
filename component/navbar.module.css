@@ -1,0 +1,19 @@
+.headerNav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+}
+
+.headerNav li {
+  padding: 0 10px;
+}
+
+.headerNav li a {
+  display: inline-block;
+  padding: 1px 0;
+}
+
+.headerNav li a:hover {
+  border-bottom: 3px solid #ffe56a;
+}
